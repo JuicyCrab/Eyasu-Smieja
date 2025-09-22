@@ -29,7 +29,7 @@ I'm a student excited about AI/ML, data-driven projects, and how technology shap
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/eyasusmieja/)
-- [Personal Website]([https://juicycrab.example.com](https://aboutme-six-sooty.vercel.app/))
+- [Personal Website](https://aboutme-six-sooty.vercel.app/)
 
 ---
 
