@@ -3,10 +3,7 @@
 
 I'm a student excited about AI/ML, data-driven projects, and how technology shapes our daily lives. I’m not an expert (yet!), but I love learning and experimenting—especially with:
 
-- **Python** (FastAPI, Scikit-learn, PostgreSQL)
-- **Java**
-- **React**
-- **R**
+- **Python** (FastAPI, Scikit-learn, PostgreSQL) | **Java** | **React** | **R**
 
 ## 🚀 Favorite Projects
 
