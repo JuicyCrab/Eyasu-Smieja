@@ -1,5 +1,5 @@
-# Eyasu-Smieja
-# 👋 Hi, I'm JuicyCrab!
+# Profile ReadME
+# 👋 Hi, I'm Eyasu Smieja!
 
 I'm a student excited about AI/ML, data-driven projects, and how technology shapes our daily lives. I’m not an expert (yet!), but I love learning and experimenting—especially with:
 
@@ -29,7 +29,7 @@ I'm a student excited about AI/ML, data-driven projects, and how technology shap
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/eyasusmieja/)
-- [Personal Website](https://juicycrab.example.com)
+- [Personal Website]([https://juicycrab.example.com](https://aboutme-six-sooty.vercel.app/))
 
 ---
 
