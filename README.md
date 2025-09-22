@@ -4,12 +4,6 @@ I'm a student excited about AI/ML, data-driven projects, and how technology shap
 
 - **Python** (FastAPI, Scikit-learn, PostgreSQL) | **Java** | **React** | **R**
 
-## 🚀 Favorite Projects
-
-- [GenLearn](https://github.com/JuicyCrab/GenLearn): Exploring course learning with the use of LLMs.
-- NBA Player Comparisons: Analyzing and comparing NBA players using data.
-- More in my [GitHub Repositories](https://github.com/JuicyCrab?tab=repositories)
-
 ## 🌟 What I'm Into
 
 - Experimenting with AI/ML across different domains, including hardware, sports analytics, and education
